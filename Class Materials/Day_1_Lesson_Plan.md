@@ -19,6 +19,7 @@ Git/GitHub is an industry standard for "version control", i.e. a way to track ch
   - Commits = save points
   - History = rewind button
 - Demo:
+  - Make AboutMe.md file together
   - Edit a file directly on GitHub
   - Make a commit
   - Undo a commit by reverting
